@@ -1,6 +1,6 @@
 ## Bem-vindo(a)!
 - 🎓 Estudante de Analise e Desenvolvimento de Sistemas.
-- 🎯 Atualmente buscando meu primeiro emprego como DEV.
+- 💼 Trabalhando com a 360 Suítes.
 - 🎮 Amante dos jogos e animes.
 
 ## Ferramentas
