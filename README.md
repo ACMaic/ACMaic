@@ -1,7 +1,7 @@
 # Olá, eu sou o Maicon! 👋  
 
 🎯 **Quem sou eu:**  
-Sou um entusiasta da área tech, sempre em busca de aprender e evoluir. Atualmente, trabalho como **Suporte N2** na **360 Suítes** e curso **Análise e Desenvolvimento de Sistemas (ADS)**, estando no terceiro semestre.
+Sou um entusiasta da área tech, sempre em busca de aprender e evoluir. Atualmente, trabalho como **Suporte N2** na **360 Suítes🏢** e curso **Análise e Desenvolvimento de Sistemas (ADS)**, estando no terceiro semestre.
 
 💻 **O que eu faço:**  
 Estou iniciando minha jornada no desenvolvimento, aprendendo tecnologias fundamentais e construindo projetos para consolidar meus conhecimentos. Meu objetivo é crescer como desenvolvedor e contribuir com soluções inovadoras.
